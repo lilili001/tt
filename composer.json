@@ -1,5 +1,5 @@
 {
-    "name": "ast/tt",
+    "name": "ast/tt-module",
     "description": "",
     "type": "laravel-module",
     "license": "MIT", 
