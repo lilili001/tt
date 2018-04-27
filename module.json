@@ -1,0 +1,17 @@
+{
+    "name": "Tt",
+    "alias": "tt",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Tt\\Providers\\TtServiceProvider",
+        "Modules\\Tt\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}
